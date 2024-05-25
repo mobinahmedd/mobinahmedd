@@ -1,4 +1,4 @@
-<a href="https://github.com/mobinahmedd">
+<a href="https://github.com/mobinahmedd" align="center">
     <img src="https://komarev.com/ghpvc/?username=mobinahmedd">
 </a>
 
