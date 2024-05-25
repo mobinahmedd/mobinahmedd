@@ -1,6 +1,6 @@
-<a href="https://github.com/mobinahmedd" align="center">
+<p align="center">
     <img src="https://komarev.com/ghpvc/?username=mobinahmedd">
-</a>
+</p>
 
 <h2 align="center">Hi 👋, I'm Mobin Ahmed</h2>
 
