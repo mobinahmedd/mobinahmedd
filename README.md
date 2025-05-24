@@ -4,19 +4,6 @@
 
 <h2 align="center">Hi 👋, I'm Mobin Ahmed</h2>
 
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/mobinahmedd/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/mobin_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-  </a>
-</div>
-
-###
-
 <p align="left">🔧 Technologies</p>
 
 ###
